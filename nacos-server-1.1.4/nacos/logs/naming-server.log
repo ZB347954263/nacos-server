@@ -1,0 +1,74 @@
+2020-02-04 22:34:04,415 INFO listen for service meta change
+
+2020-02-04 22:34:17,392 INFO [SERVER-INIT] got port: 8848
+
+2020-02-04 22:34:17,392 INFO [SERVER-INIT] got path: /nacos
+
+2020-02-04 22:34:18,241 INFO receive config info: unknown#192.168.1.5:8848#1580826858241#2
+
+
+2020-02-04 22:34:18,244 ERROR [SERVER-STATUS] Exception while sending server status
+
+java.lang.IllegalArgumentException: server: 192.168.1.5:8848 is not in serverlist
+	at com.alibaba.nacos.naming.cluster.ServerListManager.onReceiveServerStatus(ServerListManager.java:198)
+	at com.alibaba.nacos.naming.cluster.ServerListManager$ServerStatusReporter.run(ServerListManager.java:345)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+2020-02-04 22:34:20,245 INFO receive config info: unknown#192.168.1.5:8848#1580826860245#2
+
+
+2020-02-04 22:34:22,246 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, old: [], new: [{"adWeight":0,"alive":true,"ip":"192.168.1.5","key":"192.168.1.5:8848","lastRefTime":1580826860245,"lastRefTimeStr":"2020-02-04 22:34:20","servePort":8848,"site":"unknown","weight":2}]
+
+2020-02-04 22:34:22,247 INFO receive config info: unknown#192.168.1.5:8848#1580826862247#2
+
+
+2020-02-04 22:34:24,250 INFO receive config info: unknown#192.168.1.5:8848#1580826864250#2
+
+
+2020-02-04 22:34:26,251 INFO receive config info: unknown#192.168.1.5:8848#1580826866251#2
+
+
+2020-02-04 22:34:28,252 INFO receive config info: unknown#192.168.1.5:8848#1580826868252#2
+
+
+2020-02-04 22:34:30,253 INFO receive config info: unknown#192.168.1.5:8848#1580826870253#2
+
+
+2020-02-04 22:34:32,255 INFO receive config info: unknown#192.168.1.5:8848#1580826872255#2
+
+
+2020-02-04 22:34:34,256 INFO receive config info: unknown#192.168.1.5:8848#1580826874256#2
+
+
+2020-02-04 22:34:36,257 INFO receive config info: unknown#192.168.1.5:8848#1580826876257#2
+
+
+2020-02-04 22:34:38,258 INFO receive config info: unknown#192.168.1.5:8848#1580826878258#2
+
+
+2020-02-04 22:34:40,259 INFO receive config info: unknown#192.168.1.5:8848#1580826880259#2
+
+
+2020-02-04 22:34:42,263 INFO receive config info: unknown#192.168.1.5:8848#1580826882262#2
+
+
+2020-02-04 22:34:44,265 INFO receive config info: unknown#192.168.1.5:8848#1580826884265#2
+
+
+2020-02-04 22:34:46,267 INFO receive config info: unknown#192.168.1.5:8848#1580826886267#2
+
+
+2020-02-04 22:34:48,268 INFO receive config info: unknown#192.168.1.5:8848#1580826888268#2
+
+
+2020-02-04 22:34:50,274 INFO receive config info: unknown#192.168.1.5:8848#1580826890274#2
+
+
+2020-02-04 22:34:52,276 INFO receive config info: unknown#192.168.1.5:8848#1580826892276#2
+
+

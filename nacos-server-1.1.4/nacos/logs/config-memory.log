@@ -1,0 +1,26 @@
+2020-02-04 22:34:12,495 INFO [long-pulling] client count 0
+
+2020-02-04 22:34:22,349 INFO toNotifyTaskSize=0
+
+2020-02-04 22:34:22,352 INFO groupCount=0, subscriberClientCount=0, subscriberCount=0
+
+2020-02-04 22:34:22,507 INFO [long-pulling] client count 1
+
+2020-02-04 22:34:32,350 INFO toNotifyTaskSize=0
+
+2020-02-04 22:34:32,352 INFO groupCount=0, subscriberClientCount=0, subscriberCount=0
+
+2020-02-04 22:34:32,509 INFO [long-pulling] client count 1
+
+2020-02-04 22:34:42,352 INFO toNotifyTaskSize=0
+
+2020-02-04 22:34:42,353 INFO groupCount=0, subscriberClientCount=0, subscriberCount=0
+
+2020-02-04 22:34:42,510 INFO [long-pulling] client count 1
+
+2020-02-04 22:34:52,356 INFO toNotifyTaskSize=0
+
+2020-02-04 22:34:52,362 INFO groupCount=0, subscriberClientCount=0, subscriberCount=0
+
+2020-02-04 22:34:52,511 INFO [long-pulling] client count 1
+
